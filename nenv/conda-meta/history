@@ -1,0 +1,3 @@
+==> 2023-03-31 23:18:42 <==
+# cmd: /opt/anaconda3/bin/conda create -p nenv --y
+# conda version: 23.1.0
